@@ -16,7 +16,7 @@ Python, Pandas, Matplotlib, Plotly, Scikit-learn, Statsmodels
 7. Summary & Further Outlook
 
 ### Files in this Repository:
-1. [Code Folder](https://github.com/pbamoo/Weather_Forecasting/tree/main/Code):       
+1. [Code Folder](https://github.com/pbamoo/Credit_Card_Default/tree/main/Code):       
 
       - [**1_Credit_Card.ipynb**](https://github.com/pbamoo/Credit_Card_Default/blob/main/Code/1_Credit_Card.ipynb) contains the full project from data acquisition right through to forecasting.
       - [**2_EDA.ipynb**](https://github.com/pbamoo/Credit_Card_Default/blob/main/Code/2_EDA.ipynb) is the exploratory data analysis.
